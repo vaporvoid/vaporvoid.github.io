@@ -1,3 +1,33 @@
-random building - https://en.wikipedia.org/wiki/Multnomah_County_Library#/media/File:Gresham_Carnegie_Library_-_Gresham_Oregon.jpg
-random sign (photoshopped with building) - https://www.davesreliablesigns.ca/
+HOMEPAGE
+building - https://en.wikipedia.org/wiki/Multnomah_County_Library#/media/File:Gresham_Carnegie_Library_-_Gresham_Oregon.jpg
+sign (photoshopped with building) - https://www.davesreliablesigns.ca/
+
+LOGO
 my dog (in logo) - me
+
+PRODUCTS
+leash 1 - https://www.chewy.com/petsafe-premier-nylon-dog-leash-royal/dp/52301
+leash 2 - ""
+leash 3 - https://www.chewy.com/zippypaws-climbers-mountain-original/dp/131501
+leash 4 - https://www.chewy.com/flexi-new-classic-retractable-tape/dp/150352
+
+collar 1 - https://www.amazon.com/Perris-Padded-Leather-Dog-Collar/dp/B006WLSW8S
+collar 2 - https://www.upcountryinc.com/our-products/aqua-plaid-dog-collar
+collar 3 - https://www.dfordog.co.uk/red-dingo-dog-collar-breezy-love-purple.html
+
+clothing 1 - https://www.pinterest.com/explore/dog-clothing/
+clothing 2 - amazon.com/Perris-Padded-Leather-Dog-Collar/dp/B006WLSW8S
+clothing 3 - https://www.chewy.com/frisco-cozy-fair-isle-dog-pjs-small/dp/146451?utm_source=google-product&utm_medium=cpc&utm_campaign=hg&utm_content=Frisco&utm_term=&gclid=CjwKCAiAu4nRBRBKEiwANms5W63mtfjbqikD5wbpDN-qFqT1CTbk6fgK3U4AMZfVFDT7PLbheDy0yRoCxLQQAvD_BwE&gclsrc=aw.ds
+
+cage 1 - https://www.amazon.com/ProSelect-ZW179-37-Empire-Cages/dp/B000Y905XE
+cage 2 - https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiTssSRwezXAhWMKyYKHXBtC7EQjB0IBg&url=https%3A%2F%2Fwww.bmstores.co.uk%2Fproducts%2Fdog-crate-297893&psig=AOvVaw1TmatWRktS9nMmCp61Bm1K&ust=1512344539857537
+cage 3 - walmart.com
+cage 4 - https://www.bestdogcrateguide.com/best-dog-playpen-reviews/
+
+toy 1 - https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjirZLx6-7XAhXH7iYKHehNAxwQjB0IBg&url=https%3A%2F%2Fwww.chewy.com%2Fmultipet-lamb-chop-plush-dog-toy%2Fdp%2F52997&psig=AOvVaw0mYU3ZosJAQTZvpTgncSR-&ust=1512424745797909
+toy 2 - https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_86Pg6-7XAhUD5iYKHfMADvcQjB0IBg&url=http%3A%2F%2Fwww.thatpetplace.com%2Floofa-dog-toy-small&psig=AOvVaw0mYU3ZosJAQTZvpTgncSR-&ust=1512424745797909
+toy 3 - https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiGyO2w7O7XAhXJQCYKHUHwDw8QjB0IBg&url=https%3A%2F%2Fwww.ypo.co.uk%2Fproduct%2Fdetail%2F290769&psig=AOvVaw2B4cKMBMV6pC0T2JwHxd6n&ust=1512424986735452
+toy 4 - 
+
+API KEY for GOOGLE MAPS
+AIzaSyC2np08yI4fHMe_1F5BEiOSrm-I70PvG6I
