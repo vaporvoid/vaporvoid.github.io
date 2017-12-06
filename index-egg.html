@@ -3,32 +3,76 @@
 <head><link rel="shortcut icon" href="assets/favicon.jpg" type="image/x-icon">
 <meta charset="utf-8">
 <title>Alpha Bark Central</title>
+<link href="forsnow.css" rel="stylesheet" type="text/css">
 <link href="abccss.css" rel="stylesheet" type="text/css">
+
+<style>
+#div1, #div2 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+</style>
+<script>
+function allowDrop(ev) {
+    ev.preventDefault();
+}
+
+function drag(ev) {
+    ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData("text");
+    ev.target.appendChild(document.getElementById(data));
+}
+</script>
+
 </head>
 
 <body>
 	<center>
 <img src="assets/alpha bark central logo.jpg" width="1000" height="" alt=""/>
-	<img src="assets/nav.jpg" alt="Workplace" width="1000" usemap="#workmap">
-
+	<img src="assets/nav.jpg" alt="Workplace" width="1000" usemap="#workmap">	
+	
 <map name="workmap">
   <area shape="rect" coords="0,0,203,50" alt="home" href="index.html">
   <area shape="rect" coords="205,0,450,50" alt="shop" href="shop.html">
   <area shape="rect" coords="452,0,746,50" alt="location" href="location.html">
 	<area shape="rect" coords="748,0,1000,50" alt="aboutus" href="aboutus.html">
 </map></center>
-<center><p>Welcome to the official Alpha Bark Central website, where you can find all your dog supplies from leashes and collars to every toy imaginable.</p></center>
+<center>
+
+<p>Welcome to the official Alpha Bark Central website, where you can find all your dog supplies from leashes and collars to every toy imaginable.</p></center>
 <center><img src="assets/abc building.jpg" width="1000" height="" alt=""/></center>
 	 
-	<center>Here's our ad!</center>
-	
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vIYB2le9dCc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
-<center>
+
+	 
+<p>drag 'n drop</p>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <img src="assets/favicon.jpg" draggable="true" ondragstart="drag(event)" id="drag1" width="40" height="">
+</div>
+
+<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+
+	 
+	<center><b><font color=”#0000FF” size=”5″> <marquee behavior=alternate direction=up scrolldelay=65 height=150 style=”Text-align;filter:wave(add=0,phase=1, freq=1,strength=15,color=#3300CC); color:#FF0000″ scrollamount=”8″><center>HAPPY<br>HOLIDAYS<br>DECEMBER 2017</center></marquee></font><font size=”5″ color=”#FF0000″> </font></b>
 	
 	<div id="snowflakeContainer">
     <p class="snowflake">*</p>
 </div>
-	<script src="fallingsnow_v6.js"></script>
+
+
+
+
+
+<script src="fallingsnow_v6.js"></script>
 	
 <center><footer><hr> <p>copyright alphabarkcentral 2017, contact our webmaster: zac@alphabarkcentral.com </p></footer></center>
 	
